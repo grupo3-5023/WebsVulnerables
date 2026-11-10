@@ -200,3 +200,4 @@ docker exec -it mysql_examen_3 mysql -u root -proot_pass_examen3 enterprise
 > **IMPORTANTE:**
 > Todo el software y los desafíos incluidos en este repositorio contienen vulnerabilidades deliberadas y están destinados **únicamente con fines educativos, académicos y de investigación en ciberseguridad**.
 > El uso indebido de estas técnicas contra sistemas no autorizados es completamente ilegal. Los autores y colaboradores no se hacen responsables del mal uso de este material.
+> Completado - Grupo 03
